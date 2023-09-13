@@ -5,8 +5,9 @@ while index > 0:
     letter= word[index-1]
     print(letter)
     index= index-1
-    continue
-    print('Try again')
+    if index== 0:
+        break
+print('The End')
     
 
     
