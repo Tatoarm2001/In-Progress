@@ -8,6 +8,7 @@ while index > 0:
     if index== 0:
         break
 print('The End')
+input('Press Enter to exit')
     
 
     
